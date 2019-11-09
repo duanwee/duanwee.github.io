@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Wei Duan</title>
+  <title>Wei</title>
   
-  
+  <subtitle>www</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-09T18:14:25.900Z</updated>
+  <updated>2019-11-09T18:28:09.988Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Wei Duan</name>
+    <name>Wei</name>
     
   </author>
   
@@ -18,10 +18,10 @@
   
   <entry>
     <title>hey</title>
-    <link href="http://yoursite.com/2019/11/10/hey/"/>
-    <id>http://yoursite.com/2019/11/10/hey/</id>
-    <published>2019-11-09T18:14:25.000Z</published>
-    <updated>2019-11-09T18:14:25.900Z</updated>
+    <link href="http://yoursite.com/2019/11/11/hey/"/>
+    <id>http://yoursite.com/2019/11/11/hey/</id>
+    <published>2019-11-10T18:14:25.000Z</published>
+    <updated>2019-11-09T18:28:09.988Z</updated>
     
     <summary type="html">
     
